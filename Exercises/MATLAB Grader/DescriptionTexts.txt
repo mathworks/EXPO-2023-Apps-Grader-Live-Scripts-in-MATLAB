@@ -1,0 +1,21 @@
+COURSE DECRIPTION
+=============================================================================================================
+This is the MATLAB Grader part to develop some basic functionality of a Stroop Test demo. 
+
+<<INSERT PICTURE HERE>>
+
+I developed this demo to show some basic functionality of MATLAB to be used for teaching purposes, namely:
+* The use of MATLAB Apps to generate data and allow for user interaction
+* The use of MATLAB Live Scripts for evaluation
+* The access of Excel data
+* Finally, the use of MATLAB Grader to help develop simple code snippets for all these parts
+
+
+
+PROBLEM DESCRIPTIONS
+===========================================================================================================
+# Assignment: "Evaluating the results"
+## Problem: Reading a .csv file
+Below I provided you with some basic data of a participant in .csv file format. The file is called ParticipantXYZ.csv. Your task will be to read this file, using the readtable function. Refere to the MATLAB documentation <<INSERT LINK>> to learn more about this funtion. Your task is to
+read the whole file and save the data in a MATLAB table called results
+derive the number of trials from the table and assign it to a variable numTrials
