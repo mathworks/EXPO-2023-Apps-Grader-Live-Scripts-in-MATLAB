@@ -6,7 +6,7 @@
 
 **Workshop Description:**
 
-This workshop develops a lab experiment to learn about the prime MATLAB®Links to an external site. applications for research and teaching. It will be conducted using the Canvas Learning Management System (Canvas LMS) and MATLAB Online.
+This workshop develops a lab experiment to learn about the prime [MATLAB®](https://www.mathworks.com/products/matlab.html) applications for research and teaching. It will be conducted using the [Canvas Learning Management System (Canvas LMS)](https://mathworks.instructure.com/courses/265) and [MATLAB Online](https://matlab.mathworks.com/).
 
 **Attendees will learn how to:**
 
