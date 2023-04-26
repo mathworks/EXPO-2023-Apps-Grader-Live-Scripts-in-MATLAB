@@ -1,4 +1,5 @@
 COURSE DECRIPTION
+Copyright 2023 The MathWorks, Inc.
 =============================================================================================================
 This is the MATLAB Grader part to develop some basic functionality of a Stroop Test demo. 
 
