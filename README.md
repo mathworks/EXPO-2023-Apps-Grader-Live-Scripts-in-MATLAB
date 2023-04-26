@@ -24,7 +24,7 @@ The workshop is intended for an audience with basic MATLAB programming skills. P
 * Wrap-up and additional resources (10 minutes)
 
 **Speakers:**
-Naini Dawar, Customer Success Engineer, MathWorks
+Naini Dawar, Customer Success Engineer, MathWorks  
 Stefan Kerber, Customer Success Engineer, MathWorks
 
 
