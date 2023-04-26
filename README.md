@@ -5,7 +5,7 @@
 ![MATLAB Expo Workshop Title Slide](Title_Slide.png "Title")
 
 **Workshop Description:**  
-This workshop develops a lab experiment to learn about the prime [MATLAB®](https://www.mathworks.com/products/matlab.html) applications for research and teaching. It will be conducted using the [Canvas&reg;  Learning Management System (Canvas LMS)](https://mathworks.instructure.com/courses/265) and [MATLAB Online](https://matlab.mathworks.com/).
+This workshop develops a lab experiment to learn about the prime [MATLAB®](https://www.mathworks.com/products/matlab.html) applications for research and teaching. It will be conducted using the [Canvas&reg;  Learning Management System (Canvas LMS)](https://mathworks.instructure.com/courses/265) and [MATLAB Online](https://www.mathworks.com/products/matlab-online.html).
 
 **Attendees will learn how to:**
 * Use the MATLAB App Designer to create a simple application to generate data and execute a Stroop test that allows experimenters to easily collect data from participants who rate the color of printed words.
