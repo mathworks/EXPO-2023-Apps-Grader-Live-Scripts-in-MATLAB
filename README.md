@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=StefanKerberMW/2023_MATLAB_Expo_Apps_Grader_Live_Scripts&project=2023_MATLAB_Expo_Apps_Grader_Live_Script.prj)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/EXPO-2023-Apps-Grader-Live-Scripts-in-MATLAB&project=2023_MATLAB_Expo_Apps_Grader_Live_Script.prj)
 
 # [MATLAB EXPO 2023: Interactive Learning with MATLAB Apps, Live Scripts, and MATLAB Grader](https://www.matlabexpo.com/)
 
